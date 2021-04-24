@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="255378e2-6783-46b4-8071-7ec1e535f650" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" afterDir="false" />
     </list>
@@ -177,7 +174,7 @@
       <workItem from="1619093895078" duration="705000" />
       <workItem from="1619096028155" duration="1914000" />
       <workItem from="1619176276568" duration="9300000" />
-      <workItem from="1619269030232" duration="1129000" />
+      <workItem from="1619269030232" duration="2841000" />
     </task>
     <servers />
   </component>
