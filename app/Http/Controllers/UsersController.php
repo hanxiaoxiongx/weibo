@@ -10,4 +10,7 @@ class UsersController extends Controller
     {
         return view('users.create');
     }
+    public function show($id){
+        return view('users.show',['user' => User::findOrFail($id)]);
+    }
 }
